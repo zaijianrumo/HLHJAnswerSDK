@@ -1,0 +1,6 @@
+framework module HLHJAnswerSDK {
+  umbrella header "HLHJAnswerSDK.h"
+
+  export *
+  module * { export * }
+}
