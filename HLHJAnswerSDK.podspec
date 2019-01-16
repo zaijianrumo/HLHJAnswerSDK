@@ -4,7 +4,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "HLHJAnswerSDK"
-  s.version      = "1.0.2"
+  s.version      = "1.0.3"
 
   s.summary      = "答题答题答题答题"
   s.description  = <<-DESC
@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/zaijianrumo/HLHJAnswerSDK"
   s.license      = { :type => "MIT", :file => "LICENSE" }
   s.author       = { "zaijianrumo" => "2245190733@qq.com" }
-  s.source       = { :git => "https://github.com/zaijianrumo/HLHJAnswerSDK.git", :tag => "1.0.2"}
+  s.source       = { :git => "https://github.com/zaijianrumo/HLHJAnswerSDK.git", :tag => "1.0.3"}
 
   s.xcconfig = {'VALID_ARCHS' => 'arm64 x86_64'}
 
